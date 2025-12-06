@@ -1,18 +1,34 @@
 <h1 align="center">Olá, meu nome é Maria Eduarda</h1>
 <h3 align="center">Sou estudante de Fisioterapia e Análise e Desenvolvimento de Sistemas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariadev-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mariadev-dev" /> </p>
+# 💫 About Me:
+👩‍💻 Sou Maria Eduarda, desenvolvedora em formação, com interesse em tecnologia, inovação e soluções criativas.<br><br>💼 Programo, estudo e desenvolvo projetos com foco em evolução contínua e boas práticas.<br><br>🎧📚 Tenho um perfil eclético em música e leitura, refletindo minha abertura a novas ideias e perspectivas.<br><br>🍦 Um bom sorvete de flocos costuma acompanhar meus momentos de estudo e criação.<br><br>🌱 Valorizo um processo de trabalho curioso, flexível e colaborativo, buscando sempre aprender e contribuir de forma significativa.<br><br>📌 Bem-vindo ao meu GitHub — aqui você encontrará projetos, experimentos e registros da minha jornada no mundo da tecnologia
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariadev-dev" alt="mariadev-dev" /></a> </p>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/maduvilarim-88580435a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vilarim051@gmail.com) 
 
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.<p><img align="left" src="
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mariaedu-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mariaedu-dev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaedu-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-https://github-readme-stats.vercel.app/api/top-langs?username=mariadev-dev&show_icons=true&locale=en&layout=compact" alt="mariadev-dev" /></p><p><img align="
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mariaedu-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-center" src="https://github-readme-stats.vercel.app/api?username=mariadev-dev&show_icons=true&locale=en" alt="mariadev-dev" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mariaedu-dev&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mariaedu-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
