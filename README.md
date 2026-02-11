@@ -1,27 +1,38 @@
-<h1 align="center">Olá, meu nome é Maria Eduarda</h1>
-<h3 align="center">Sou estudante de Fisioterapia e Análise e Desenvolvimento de Sistemas</h3>
+<h1 align="center">Oi, eu sou a Maria Eduarda 👋</h1>
 
-# 💫 About Me:
-👩‍💻 Sou Maria Eduarda, desenvolvedora em formação, com interesse em tecnologia, inovação e soluções criativas.<br><br>💼 Programo, estudo e desenvolvo projetos com foco em evolução contínua e boas práticas.<br><br>🎧📚 Tenho um perfil eclético em música e leitura, refletindo minha abertura a novas ideias e perspectivas.<br><br>🍦 Um bom sorvete de flocos costuma acompanhar meus momentos de estudo e criação.<br><br>🌱 Valorizo um processo de trabalho curioso, flexível e colaborativo, buscando sempre aprender e contribuir de forma significativa.<br><br>📌 Bem-vindo ao meu GitHub — aqui você encontrará projetos, experimentos e registros da minha jornada no mundo da tecnologia
+<p align="center">
+Estudante de Análise e Desenvolvimento de Sistemas e Fisioterapia<br>
+Desenvolvedora em formação, curiosa por tecnologia, design e soluções criativas
+</p>
 
+## 👩‍💻 Sobre mim
+Sou desenvolvedora em formação, com interesse em criar soluções simples, funcionais e bem estruturadas.  
+Gosto de aprender na prática, testar ideias e evoluir um pouco todos os dias.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maduvilarim-88580435a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vilarim051@gmail.com) 
+Quando não estou desenvolvendo, costumo ouvir música, ler e explorar conteúdos que estimulam criatividade e pensamento crítico.  
+Este GitHub reúne meus projetos, estudos e experimentos ao longo da minha jornada em tecnologia.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mariaedu-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mariaedu-dev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaedu-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💻 Tecnologias & Ferramentas
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend / Dados:** Java, MySQL  
+- **Ferramentas:** Git, GitHub, Figma, Canva, Trello, Notion  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mariaedu-dev&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 📌 O que você vai encontrar aqui
+- Projetos acadêmicos e pessoais  
+- Estudos práticos e experimentos  
+- Evolução contínua em desenvolvimento web e lógica de programação  
+
+## 🌐 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maduvilarim-88580435a)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vilarim051@gmail.com)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Mariaedu-dev&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaedu-dev&layout=compact&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mariaedu-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
