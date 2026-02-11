@@ -23,8 +23,9 @@ This GitHub brings together my projects, studies, and experiments throughout my 
 - Continuous growth in web development and programming logic  
 
 ## 🌐 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maduvilarim-88580435a)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vilarim051@gmail.com)
+📫 Email: vilarim051@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/maduvilarim-88580435a
+🐙 GitHub: https://github.com/Mariaedu-dev
 
 ---
 ⭐ Feel free to explore my repositories and follow my progress
