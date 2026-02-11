@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maria Eduarda 🌻</h1>
 
 <p align="center">
-💻 Developer in training | Systems Analysis & Physiotherapy<br>
+💻 Developer in training | 🧠 Systems Analysis & Physiotherapy<br>
 Passionate about technology, data, and building functional digital solutions
 </p>
 
