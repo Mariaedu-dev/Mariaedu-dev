@@ -27,8 +27,10 @@ Este GitHub reúne meus projetos, estudos e experimentos ao longo da minha jorna
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vilarim051@gmail.com)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Mariaedu-dev&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Mariaedu-dev&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaedu-dev&layout=compact&theme=radical)
+
+---
 
 ---
 ⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução
