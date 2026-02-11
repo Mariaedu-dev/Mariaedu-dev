@@ -31,8 +31,6 @@ Este GitHub reúne meus projetos, estudos e experimentos ao longo da minha jorna
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaedu-dev&layout=compact&theme=radical)
 
 ---
-
----
 ⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução
 
 
