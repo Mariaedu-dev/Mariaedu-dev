@@ -31,9 +31,6 @@ This GitHub brings together my projects, studies, and experiments throughout my 
 ---
 ⭐ Feel free to explore my repositories and follow my progress
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/aniziavictoria/aniziavictoria/output/github-contribution-grid-snake.svg" />
-</div>
 
 
 
