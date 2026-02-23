@@ -20,18 +20,18 @@ This GitHub brings together my projects, studies, and experiments throughout my 
 
 ### ✅ Finalized Projects
 
-- 🎂 **Digital Birthday Card**  
+- 🪄 🎂 **Digital Birthday Card**  
   Interactive front-end project built with **HTML, CSS, and JavaScript**, focused on DOM manipulation, animations, and modern styling.
 
 ---
 
 ### 🔄 Projects in Progress
 
-- 🪄 **Arcana – Jornada do Mago**  
+- 🪄 **🧙 ARCANA — Jornada do Conhecimento**  
   A gamified study application designed to transform learning into an immersive experience.  
   Currently evolving with new features and structure improvements.
 
-- 🌌 **Celestial Web**  
+- 🪄 **🌌 Celestial Web**  
   A poetic and visual web project inspired by planets and the universe.  
   Exploring creativity, design concepts, and interactive experiences.
 
