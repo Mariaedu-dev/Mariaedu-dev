@@ -22,7 +22,7 @@ This GitHub brings together my projects, studies, and experiments throughout my 
 
 - 🎂 **Digital Birthday Card**  
   Interactive front-end project built with **HTML, CSS, and JavaScript**, focused on DOM manipulation, animations, and modern styling.
-
+  https://mariaedu-dev.github.io/digital-birthday-card/ 
 ---
 
 ### 🔄 Projects in Progress
