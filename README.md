@@ -27,6 +27,10 @@ This GitHub brings together my projects, studies, and experiments throughout my 
 
 ### 🔄 Projects in Progress
 
+- **Portfolio - The Starry Night by Vincent van Gogh (Frontend):**
+  Personal portfolio developed with HTML, CSS, and JavaScript, exploring the integration of health, technology, and data.
+  An original project focused on learning, storytelling, and design inspired by The Starry Night.
+
 - **🧙 ARCANA — Jornada do Conhecimento**  
   A gamified study application designed to transform learning into an immersive experience.  
   Currently evolving with new features and structure improvements.
