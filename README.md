@@ -22,7 +22,13 @@ This GitHub brings together my projects, studies, and experiments throughout my 
 
 - 🎂 **Digital Birthday Card**  
   Interactive front-end project built with **HTML, CSS, and JavaScript**, focused on DOM manipulation, animations, and modern styling.
-  🔗 Acesse o projeto: https://mariaedu-dev.github.io/digital-birthday-card/ 
+  🔗 Acesse o projeto: https://mariaedu-dev.github.io/digital-birthday-card/
+
+  - **🐶 Dog App - API Consumption**
+A simple web application built with **HTML, CSS, and JavaScript**, focused on responsiveness (mobile-first) and public API consumption.
+🔗 Acesse o projeto: 
+
+The app allows users to generate random dog images in real time using the Dog CEO API.
 ---
 
 ### 🔄 Projects in Progress
