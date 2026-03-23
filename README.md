@@ -26,7 +26,7 @@ This GitHub brings together my projects, studies, and experiments throughout my 
 
   - **🐶 Dog App - API Consumption**
 A simple web application built with **HTML, CSS, and JavaScript**, focused on responsiveness (mobile-first) and public API consumption.
-🔗 Acesse o projeto: 
+🔗 Acesse o projeto: https://dog-app-api-mv80069.netlify.app/
 
 The app allows users to generate random dog images in real time using the Dog CEO API.
 ---
