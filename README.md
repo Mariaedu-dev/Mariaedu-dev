@@ -24,7 +24,7 @@ This GitHub brings together my projects, studies, and experiments throughout my 
   Interactive front-end project built with **HTML, CSS, and JavaScript**, focused on DOM manipulation, animations, and modern styling.
   🔗 Acesse o projeto: https://mariaedu-dev.github.io/digital-birthday-card/
 
-  - **🐶 Dog App - API Consumption**
+ - **🐶 Dog App - API Consumption**
 A simple web application built with **HTML, CSS, and JavaScript**, focused on responsiveness (mobile-first) and public API consumption.
 🔗 Acesse o projeto: https://dog-app-api-mv80069.netlify.app/
 
