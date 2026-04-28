@@ -29,9 +29,10 @@ This GitHub brings together my projects, studies, and experiments throughout my 
 Web application built with HTML, CSS, and JavaScript, following a mobile-first approach and integrating external APIs.
 
 It generates random dog images (Dog CEO API) and finds nearby pet shops using geolocation and Google Maps, with a fast and responsive interface.
+
   🔗 Acesse o projeto: https://dog-app-pwa.netlify.app/
 
-- **FisioApp**
+- **🩺 FisioApp**
 A Progressive Web Application (PWA) developed as part of a Mobile Coding challenge.
 The system enables the registration and management of physiotherapy procedures through a simple, responsive, and functional interface.
 
