@@ -37,7 +37,6 @@ A Progressive Web Application (PWA) developed as part of a Mobile Coding challen
 The system enables the registration and management of physiotherapy procedures through a simple, responsive, and functional interface.
 
 This is an initial project built to practice core fullstack development concepts, using a Node.js backend and MongoDB Atlas as a NoSQL database.
-The project is continuously evolving, with planned improvements in usability, features, and architecture.n learning, storytelling, and design inspired by The Starry Night.
 
 🔗 Acesse o projeto: https://physio-front.netlify.app/
 
