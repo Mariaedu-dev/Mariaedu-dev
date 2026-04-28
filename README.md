@@ -26,18 +26,24 @@ This GitHub brings together my projects, studies, and experiments throughout my 
   🔗 Acesse o projeto: https://mariaedu-dev.github.io/digital-birthday-card/
 
  - **🐶 Dog App - API Consumption**
-A simple web application built with **HTML, CSS, and JavaScript**, focused on responsiveness (mobile-first) and public API consumption.
+Web application built with HTML, CSS, and JavaScript, following a mobile-first approach and integrating external APIs.
 
-  🔗 Acesse o projeto: https://dog-app-api-mv80069.netlify.app/
+It generates random dog images (Dog CEO API) and finds nearby pet shops using geolocation and Google Maps, with a fast and responsive interface.
+  🔗 Acesse o projeto: https://dog-app-pwa.netlify.app/
+
+- **FisioApp**
+A Progressive Web Application (PWA) developed as part of a Mobile Coding challenge.
+The system enables the registration and management of physiotherapy procedures through a simple, responsive, and functional interface.
+
+This is an initial project built to practice core fullstack development concepts, using a Node.js backend and MongoDB Atlas as a NoSQL database.
+The project is continuously evolving, with planned improvements in usability, features, and architecture.n learning, storytelling, and design inspired by The Starry Night.
+
+🔗 Acesse o projeto: https://physio-front.netlify.app/
 
 The app allows users to generate random dog images in real time using the Dog CEO API.
 ---
 
 ### 🔄 Projects in Progress
-
-- **Portfolio - The Starry Night by Vincent van Gogh (Frontend):**
-  Personal portfolio developed with HTML, CSS, and JavaScript, exploring the integration of health, technology, and data.
-  An original project focused on learning, storytelling, and design inspired by The Starry Night.
 
 - **🧙 ARCANA — Jornada do Conhecimento**  
   A gamified study application designed to transform learning into an immersive experience.  
