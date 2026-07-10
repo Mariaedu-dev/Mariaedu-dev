@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maria Eduarda 👋</h1>
+<h1 align="center">Hi, I'm Maria Eduarda 🌻</h1>
 
 <p align="center">
 💻 Software Developer in Training <br>
