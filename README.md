@@ -57,18 +57,6 @@ Built as a full stack project using **Node.js**, **MongoDB Atlas**, and modern w
 
 ---
 
-## 🚧 Projects in Progress
-
-### 🧙 ARCANA — Journey of Knowledge
-A gamified study application designed to transform learning into an immersive and engaging experience.
-
----
-
-### 🌌 Celestial Web
-A creative web project inspired by astronomy, combining interactive design, storytelling, and visual experiences.
-
----
-
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
